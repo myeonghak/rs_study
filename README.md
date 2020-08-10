@@ -7,6 +7,8 @@ Recommender Systems study
 
 -	교재: Recommender Systems the textbook (https://www.springer.com/gp/book/9783319296579 )<br/>
 
+<img src="https://images-na.ssl-images-amazon.com/images/I/519oFk9BFOL._SX359_BO1,204,203,200_.jpg" alt="drawing" width="200"/>
+
 -	기간: 2020년 8월 11일부터 약 8주간
 
 <br/>

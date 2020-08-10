@@ -48,18 +48,26 @@ Recommender Systems study
 주차 정보 표
 ------------
 
-| CHAPTER                                                                           | PAGE        | WEEK    |
-|-----------------------------------------------------------------------------------|:-----------:|:-------:|
-| <span style="color:darkblue">Introduction</span>                                  |  p1 - p28   | **1주** |
-| <span style="color:darkblue">Neighborhood-Based Collaborative Filtering</span>    |  p29 - p69  | **2주** |
-| <span style="color:darkblue">Model-Based Collaborative Filtering</span>           | p71 - p136  | **3주** |
-| <span style="color:darkblue">Content-Based Recommender Systems</span>             | p139 - p165 | **4주** |
-| <span style="color:darkblue">Knowledge-Based Recommender Systems</span>           | p167 - p197 | **5주** |
-| <span style="color:darkblue">Ensemble-Based and Hybrid Recommender Systems</span> | p199 - p224 | **6주** |
-| <span style="color:darkblue">Evaluating Recommender Systems</span>                | p225 - p254 | **7주** |
-| Context-Sensitive Recommender Systems                                             | p255 - p281 |         |
-| Time- and Location-Sensitive Recommender Systems                                  | p283 - p308 |         |
-| Structural Recommendations in Networks                                            | p309 - p344 |         |
-| Social and Trust-Centric Recommender Systems                                      | p345 - p384 |         |
-| Attack-Resistant Recommender Systems                                              | p385 - p410 |         |
-| <span style="color:darkblue">Advanced Topics in Recommender Systems</span>        | p411 - p446 | **8주** |
+| CHAPTER                                                                                      | PAGE        | WEEK    |
+|----------------------------------------------------------------------------------------------|:-----------:|:-------:|
+| <span style="color:darkblue">Introduction</span> :blue_book:                                 |  p1 - p28   | **1주** |
+| <span style="color:darkblue">Neighborhood-Based Collaborative Filtering</span> :blue_book:   |  p29 - p69  | **2주** |
+| <span style="color:darkblue">Model-Based Collaborative Filtering</span> :blue_book:          | p71 - p136  | **3주** |
+| <span style="color:darkblue">Content-Based Recommender Systems</span> :blue_book:            | p139 - p165 | **4주** |
+| <span style="color:darkblue">Knowledge-Based Recommender Systems</span> :blue_book:          | p167 - p197 | **5주** |
+| <span style="color:darkblue">Ensemble-Based and Hybrid Recommender Systems</span>:blue_book: | p199 - p224 | **6주** |
+| <span style="color:darkblue">Evaluating Recommender Systems</span> :blue_book:               | p225 - p254 | **7주** |
+| Context-Sensitive Recommender Systems                                                        | p255 - p281 |         |
+| Time- and Location-Sensitive Recommender Systems                                             | p283 - p308 |         |
+| Structural Recommendations in Networks                                                       | p309 - p344 |         |
+| Social and Trust-Centric Recommender Systems                                                 | p345 - p384 |         |
+| Attack-Resistant Recommender Systems                                                         | p385 - p410 |         |
+| <span style="color:darkblue">Advanced Topics in Recommender Systems</span> :blue_book:       | p411 - p446 | **8주** |
+
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
+
+<div class="text-white bg-blue mb-2">
+  .text-white on .bg-blue
+</div>

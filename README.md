@@ -64,10 +64,3 @@ Recommender Systems study
 | Attack-Resistant Recommender Systems                                                         | p385 - p410 |         |
 | <span style="color:darkblue">Advanced Topics in Recommender Systems</span> :blue_book:       | p411 - p446 | **8주** |
 
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
-
-<div class="text-white bg-blue mb-2">
-  .text-white on .bg-blue
-</div>

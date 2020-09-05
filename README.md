@@ -15,7 +15,7 @@ Recommender Systems study
 
 ### 함께하는 사람
 
-[**이혜승**](https://github.com/2hyes),[**이명학**](https://github.com/myeonghak),[**이마태**](https://github.com/sulmasulma),[**장영준**](https://github.com/Fintecuriosity11),김남균,강병하 
+[**이혜승**](https://github.com/2hyes),[**이명학**](https://github.com/myeonghak),[**이마태**](https://github.com/sulmasulma),[**장영준**](https://github.com/Fintecuriosity11),[**김남균**](https://github.com/Namkyun-AUX),[**강병하**](https://github.com/laetokang) 
 <br/>
 
 진행 방법
